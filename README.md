@@ -21,3 +21,17 @@
 - 🇺🇸 ***English***
 - 🇬🇹 ***Español***
 
+### <span style="font-family: 'Playfair Display', serif; color: #87CEEB;"> 🖥️ </span> <span style="font-family: 'Playfair Display', serif; color: #4169E1">*Programming Languages*</span>
+
+![Static Badge](https://img.shields.io/badge/Java-orange?logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F152%2F152760.png) ![Static Badge](https://img.shields.io/badge/HTML-green?logo=HTML5) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=CSS3) ![Static Badge](https://img.shields.io/badge/Bootstrap-%239370DB?logo=Bootstrap) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/Python-%23ADD8E6?logo=Python) ![Static Badge](https://img.shields.io/badge/MySQL-%23ADD8E6?logo=MySQL) ![Static Badge](https://img.shields.io/badge/Git-%23FFA500?logo=Git) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub) ![Static Badge](https://img.shields.io/badge/MarkDown-%23000000?logo=Markdown)
+
+
+
+
+
+
+
+
+
+
