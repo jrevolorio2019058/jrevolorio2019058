@@ -1,6 +1,6 @@
-## <span style="font-family: 'Montserrat', sans-serif; color: #191970;">| *Jorge Abraham Revolorio Mazariegos* |</span><span style="font-family: 'Playfair Display', serif; color: #8B4513;"><br><br>| <i class="fas fa-book"></i></span> <span style="font-family: 'Playfair Display', serif; color: #556B2F;">*Professional Computer Science Student* | </span>
+## <span style="font-family: 'Montserrat', sans-serif; color: #191970;">| *Jorge Abraham Revolorio Mazariegos* |</span><span style="font-family: 'Playfair Display', serif; color: #8B4513;"><br><br>| 📙 <span style="font-family: 'Playfair Display', serif; color: #556B2F;">*Professional Computer Science Student* | </span>
 
-### <span style="font-family: 'Playfair Display', serif; color: #87CEEB;"><i class="fas fa-exclamation-circle"></i></span> <span style="font-family: 'Playfair Display', serif; color: #4169E1">*Personal Information*</span>
+### <span style="font-family: 'Playfair Display', serif; color: #87CEEB;"> ℹ️ </span> <span style="font-family: 'Playfair Display', serif; color: #4169E1">*Personal Information*</span>
 
 - <span style="font-family: 'Playfair Display', serif; color: #800000; font-weight: bold;"> *Date of birth:* </span> <span style="font-family: 'Playfair Display', serif; color: black; font-weight: bold;"> *April 12th, 2005* </span>
 
