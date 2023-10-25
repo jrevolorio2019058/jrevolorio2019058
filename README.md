@@ -16,3 +16,8 @@
 
 - <span style="font-family: 'Playfair Display', serif; color: #800000; font-weight: bold;"> *Marital Status:* </span> <span style="font-family: 'Playfair Display', serif; color: black; font-weight: bold;"> *Single* </span>
 
+### <span style="font-family: 'Playfair Display', serif; color: #87CEEB;"> 🗣️ </span> <span style="font-family: 'Playfair Display', serif; color: #4169E1">*Languages*</span>
+
+- 🇺🇸 ***English***
+- 🇬🇹 ***Español***
+
