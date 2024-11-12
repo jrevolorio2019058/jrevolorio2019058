@@ -1,5 +1,5 @@
 ## <span style="font-family: 'Montserrat', sans-serif; color: #191970;">| *Jorge Abraham Revolorio Mazariegos* |</span>
-<span style="font-family: 'Playfair Display', serif; color: #8B4513;"><br><br>| 🖥️ <span style="font-family: 'Playfair Display', serif; color: #556B2F;">*Full Stack Developer* | </span>
+<span style="font-family: 'Playfair Display', serif; color: #8B4513;">| 🖥️ <span style="font-family: 'Playfair Display', serif; color: #556B2F;">*Full Stack Developer* | </span>
 
 ### <span style="font-family: 'Playfair Display', serif; color: #87CEEB;"> 🧑 </span> <span style="font-family: 'Playfair Display', serif; color: #4169E1">*Biography*</span>
 
